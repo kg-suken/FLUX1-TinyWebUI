@@ -3,6 +3,8 @@
 
 間違いなどがあったら指摘していただけるとうれしいです。質問もお待ちしています。
 
+Windowsの場合はRAM32GB以上推奨
+
 ## YouTubeの使い方動画
 [![](https://img.youtube.com/vi/QWgKL8-F2Bw/0.jpg)](https://www.youtube.com/watch?v=QWgKL8-F2Bw)
 
