@@ -111,4 +111,4 @@ with gr.Blocks(title="Flux1") as demo:
     )
 
 # アプリの起動
-demo.launch(server_name="0.0.0.0", server_port=8080)
+demo.launch()
